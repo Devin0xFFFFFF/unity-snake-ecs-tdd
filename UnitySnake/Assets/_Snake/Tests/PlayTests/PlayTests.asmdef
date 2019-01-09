@@ -1,7 +1,7 @@
 {
     "name": "PlayTests",
     "references": [
-        "Game.NoECS",
+        "UnitySnake",
         "Unity.TextMeshPro"
     ],
     "optionalUnityReferences": [
