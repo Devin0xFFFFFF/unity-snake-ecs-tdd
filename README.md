@@ -1,2 +1,2 @@
-# unity-snake-ecs-tdd
+# unity-snake-tdd
 Snake implemented in Unity using TDD
